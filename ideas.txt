@@ -1,1 +1,2 @@
 add real-time data scraping from Etherscan API
+# todo: support Layer2 fee model
