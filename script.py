@@ -35,3 +35,4 @@
 # refactor 7537
 # fix 7536
 # refactor 9063
+# fix 6712
