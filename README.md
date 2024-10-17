@@ -20,3 +20,4 @@ A simple Python script to simulate and visualize daily wallet activity on the Et
 - Update note 2126
 >>>>>>> 2aca7da (Fix validator check support)
 - Update note 1455
+- Update note 1906
