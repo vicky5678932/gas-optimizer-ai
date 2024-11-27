@@ -1,1 +1,3 @@
 analyze behavior spikes on weekends
+# devlog: improvements in optimizer logic
+
